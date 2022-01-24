@@ -1,0 +1,1 @@
+Code Ninjas Flutter app updated to one for Flutter version 2.8 and gradle 7.0.4
